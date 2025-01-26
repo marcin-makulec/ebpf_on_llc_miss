@@ -1,5 +1,5 @@
 #include "on_llc_miss.h"
-#include "vmlinux_alt.h"
+#include "vmlinux_short.h"
 #include <bpf/bpf.h>
 #include <bpf/libbpf.h>
 #include <linux/perf_event.h>
